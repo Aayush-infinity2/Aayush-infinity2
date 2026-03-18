@@ -83,3 +83,9 @@ I love building intelligent systems, scalable apps, and exploring how AI meets r
 ## ⚡ Fun Line
 
 > Building AI today that solves tomorrow 🚀
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Aayush-infinity2/Aayush-infinity2/blob/output/github-contribution-grid-snake-dark.svg)
