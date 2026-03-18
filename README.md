@@ -11,7 +11,6 @@ I love building intelligent systems, scalable apps, and exploring how AI meets r
 - 🤖 Into Machine Learning, NLP & Recommendation Systems  
 - ⚙️ Exploring DevOps & MLOps workflows  
 - 💻 Strong in problem-solving & system thinking  
-- 🚀 100+ DSA problems solved  
 
 ---
 
@@ -62,14 +61,6 @@ I love building intelligent systems, scalable apps, and exploring how AI meets r
   <img src="https://github-readme-stats.vercel.app/api?username=Aayush-infinity2&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-infinity2&theme=tokyonight" />
 </p>
-
----
-
-## 🚀 Top Projects
-
-- 🔥 AI Skill Recommendation System  
-- 🌱 Crop Recommendation ML Model  
-- 🏥 NLP Health Diagnosis System
 
 ---
 
