@@ -65,11 +65,11 @@ I love building intelligent systems, scalable apps, and exploring how AI meets r
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Top Projects
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aayush-infinity2&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+- 🔥 AI Skill Recommendation System  
+- 🌱 Crop Recommendation ML Model  
+- 🏥 NLP Health Diagnosis System
 
 ---
 
@@ -77,15 +77,7 @@ I love building intelligent systems, scalable apps, and exploring how AI meets r
 
 > “Programs must be written for people to read.”  
 > — Harold Abelson  
-
----
-
-## 🚀 Top Projects
-
-- 🔥 AI Skill Recommendation System  
-- 🌱 Crop Recommendation ML Model  
-- 🏥 NLP Health Diagnosis System  
-
+  
 ---
 
 ## ⚡ Fun Line
