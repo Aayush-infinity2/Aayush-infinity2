@@ -1,103 +1,93 @@
-<h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
-<h3 align="center">🚀 AI & Machine Learning Engineer | DevOps Enthusiast | Problem Solver</h3>
+<h1 align="center">Hey 👋, I'm Aayush Sharma</h1>
+<h3 align="center">🧠 AI/ML Engineer | ⚙️ DevOps Explorer | 🚀 Building Smart Systems</h3>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-🎓 B.Tech CSE (AI & ML) @ Lovely Professional University  
-💡 Passionate about building intelligent systems & scalable applications  
-⚙️ Exploring DevOps, MLOps & system design  
-🔥 Love solving real-world problems using AI  
+Hi, I'm Aayush — a 3rd year B.Tech CSE (AI & ML) student at LPU, Punjab.  
+I love building intelligent systems, scalable apps, and exploring how AI meets real-world impact.
+
+- 🤖 Into Machine Learning, NLP & Recommendation Systems  
+- ⚙️ Exploring DevOps & MLOps workflows  
+- 💻 Strong in problem-solving & system thinking  
+- 🚀 100+ DSA problems solved  
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Socials
+
+<p align="left">
+<a href="https://linkedin.com/in/aayush-sharma"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:aayushsharma1715@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/Aayush-infinity2"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## 🧰 Tech Stack
 
 ### 💻 Languages
-C++ | Python | JavaScript | Java | C | SQL  
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
 
 ### 🤖 AI / ML
-Scikit-learn | Pandas | NumPy | NLP | Sentence Transformers  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![NLP](https://img.shields.io/badge/NLP-purple?style=for-the-badge)
 
-### 🌐 Web Development
-HTML | CSS | React (Vite) | Tailwind CSS | Flask | Django | Streamlit  
+### 🌐 Web
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
 
-### ⚙️ Tools & DevOps
-Git | GitHub | MySQL | PostgreSQL | REST APIs | Vercel  
-
----
-
-## 🚀 Projects
-
-### 🔹 Skill Forge
-💡 AI-powered job & course recommendation system  
-- Trained on 32K job listings & 3.6K courses  
-- Real-time recommendations via REST APIs  
-
-**Tech:** Python, ML, React, Tailwind, Vercel  
-
----
-
-### 🌱 Crop Recommendation System
-💡 Predicts best crops using environmental conditions  
-- Accuracy: ~90%  
-- Interactive Streamlit web app  
-
-**Tech:** Python, Scikit-learn, Streamlit  
-
----
-
-### 🏥 Health Diagnosis System
-💡 NLP-based disease prediction from symptoms  
-- Uses MiniLM embeddings  
-- Real-time prediction (<1 sec)  
-
-**Tech:** NLP, Sentence Transformers, Python  
-
----
-
-## 💼 Experience
-
-### 👨‍💻 Frontend Developer – Codesoft (Virtual)
-- Built responsive web apps  
-- Improved UI/UX and performance  
-- Worked with modern frontend practices  
-
----
-
-## 🏆 Achievements
-
-🥈 2nd Rank – University Quiz Competition  
-💯 Solved 100+ DSA problems  
-
----
-
-## 📜 Certifications
-
-✔️ Machine Learning – LPU  
-✔️ Generative AI – Udemy  
-✔️ Responsive Web Design – FreeCodeCamp  
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-infinity2&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-infinity2&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-infinity2&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-infinity2&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
-📧 Email: aayushsharma1715@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/aayush-sharma  
-💻 GitHub: https://github.com/Aayush-infinity2  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aayush-infinity2&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## ✍️ Random Dev Quote
 
-💡 "I don’t just train models, I train systems to think."
+> “Programs must be written for people to read.”  
+> — Harold Abelson  
+
+---
+
+## 🚀 Top Projects
+
+- 🔥 AI Skill Recommendation System  
+- 🌱 Crop Recommendation ML Model  
+- 🏥 NLP Health Diagnosis System  
+
+---
+
+## ⚡ Fun Line
+
+> Building AI today that solves tomorrow 🚀
